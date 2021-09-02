@@ -36,6 +36,6 @@ public class Repository {
         });
 
         AppController.getInstance().addToRequestQueue(jsonArrayRequest);
-        return null;
+        return questionArrayList;
     }
 }

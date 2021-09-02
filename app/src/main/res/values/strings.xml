@@ -6,4 +6,7 @@
     <string name="falseButton">False</string>
     <string name="nextButton">Next</string>
     <string name="placeholder">Hello World, this is where we are going to add the question text</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">incorrect</string>
+    <string name="score">0</string>
 </resources>
